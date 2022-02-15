@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "preserveConstEnums": true,
+    "strictNullChecks": true,
+    "sourceMap": true,
+    "esModuleInterop": false,
+    "allowJs": true,
+    "target": "ES2020",
+    "outDir": ".build",
+    "moduleResolution": "node",
+    "module": "CommonJS",
+    "rootDir": "./",
+    "skipLibCheck": true,
+    "downlevelIteration": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "experimentalDecorators": true,
+    "jsx": "react",
+    "resolveJsonModule": true
+  }
+}
